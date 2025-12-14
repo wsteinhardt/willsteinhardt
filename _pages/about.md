@@ -10,11 +10,13 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
 
-  <p>University of California, Santa Cruz</p>
-  <p>1156 High Street</p>
-  <p>Earth and Marine Sciences</p>
-  <p>Room C366</p>
-  <p>Santa Cruz, CA 95064</p>
+    <p>Room C366</p>
+    <p>University of California, Santa Cruz</p>
+    <p>1156 High Street</p>
+    <p>Santa Cruz, CA 95064</p>
+
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
