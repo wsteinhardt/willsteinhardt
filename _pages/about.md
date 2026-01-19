@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-
     <p>Room C366</p>
     <p>University of California, Santa Cruz</p>
     <p>1156 High Street</p>
