@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://willsteinhardt.github.io/sitemap.xml
+Sitemap: https://wsteinhardt.github.io/sitemap.xml
