@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ucsc.edu/'>UC Santa Cruz</a> | Postdoctoral Scholar
+subtitle: <a href='https://www.ucsc.edu/'>UC Santa Cruz</a> | Assistant Researcher
 
 profile:
   align: right
