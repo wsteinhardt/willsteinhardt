@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Motto
+subtitle: <a href='https://www.ucsc.edu/'>UC Santa Cruz</a> | Postdoctoral Scholar
 
 profile:
   align: right
@@ -22,7 +22,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -32,4 +32,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Checking changes. Many problems in geology and geophysics occur over extreme spatial or temporal scales, and are often both three dimensional and time dependent. My research involves developing scaled-down laboratory systems to try to study these problems and developing and utilizing multi-dimensional field and laboratory measurements to better connect these analog systems to nature. I am especially interested in exploring the role of heterogeneity in determining the dynamics, complexity and roughness of both faults and fractures, as well as problems related to damage, wear, and granular dynamics.
+Many problems in geology and geophysics occur over extreme spatial or temporal scales, and are often both three dimensional and time dependent. My research involves developing scaled-down laboratory systems to try to study these problems and developing and utilizing multi-dimensional field and laboratory measurements to better connect these analog systems to nature. I am especially interested in exploring the role of heterogeneity in determining the dynamics, complexity and roughness of both faults and fractures, as well as problems related to damage, wear, and granular dynamics.
