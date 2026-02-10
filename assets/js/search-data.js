@@ -25,26 +25,12 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Curriculum vitae for Will Steinhardt, Assistant Researcher at UC Santa Cruz, specializing in experimental rock mechanics and fault dynamics.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/willsteinhardt/cv/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/willsteinhardt/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/willsteinhardt/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
